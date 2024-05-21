@@ -40,7 +40,7 @@ Before diving into the game, make sure you have Python 3.x installed on your sys
 ### Example
 Here's a sample run of the game:
 
-    ```vbnet
+    ```
     How many players are there? (max is 4 players): 3
     Player 1's turn has started
     Would you like to roll? (y or n): y
