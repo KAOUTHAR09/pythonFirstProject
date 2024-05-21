@@ -74,3 +74,15 @@ Here's a sample run of the game:
 
  ### 📝 Credits
     This project was created by @Kaouthar09 as their first Python project.
+
+## 🚀 Future Improvements
+
+While this version of the Dice Game is simple, it's just the beginning! As I continue to learn and grow as a Python developer, I plan to enhance the game with additional features and improvements. Some ideas for future updates include:
+
+- Implementing more complex game mechanics.
+- Adding customizable game settings, such as different dice types or scoring rules.
+- Incorporating a graphical user interface (GUI) for a more visually appealing experience.
+- Enhancing error handling and input validation for a smoother gameplay experience.
+- Introducing multiplayer functionality for online gameplay with friends.
+
+Stay tuned for updates as I work to make the Dice Game even more engaging and enjoyable for players of all skill levels!
